@@ -1,0 +1,11 @@
+{
+  "name": "shivankarnodepkg",
+  "version": "1.0.0",
+  "description": "For learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "author": "",
+  "license": "ISC"
+}
